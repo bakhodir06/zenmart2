@@ -1,0 +1,21 @@
+
+.home_page{
+   display: flex;
+   flex-direction: column;
+}
+
+.header_frame{
+    position: relative;
+    margin-top: 47px;
+    width: 100%;
+    height: auto;
+
+    display:flex;
+    justify-content: center;
+}
+
+.cintainer{
+    flex-direction: row;
+    height: 200px;
+    background-color: red;
+}
